@@ -28,7 +28,7 @@
 body {  
   background: var(--body-bg);
   color: var(--base-text-color);
-  transition: .5s ease;
+  transition: .1s ease;
 }
 .navbar {
   background: var(--header-bg) !important;
