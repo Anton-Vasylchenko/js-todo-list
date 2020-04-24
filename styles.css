@@ -25,7 +25,7 @@
   --input-focus-box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
 }
 
-body {
+body {  
   background: var(--body-bg);
   color: var(--base-text-color);
   transition: .5s ease;

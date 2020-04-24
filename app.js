@@ -17,7 +17,7 @@
   
   const themes = {
     default: {
-      '--body-bg': '#eee',
+      '--body-bg': 'url("img/default.png")',
       '--base-text-color': '#212529',
       '--header-bg': '#007bff',
       '--header-text-color': '#fff',
@@ -42,7 +42,7 @@
       '--input-focus-box-shadow': '0 0 0 0.2rem rgba(0, 123, 255, 0.25)',
     },
     dark: {
-      '--body-bg': '#adadad',
+      '--body-bg': 'url("img/dark.png")',
       '--base-text-color': '#212529',
       '--header-bg': '#343a40',
       '--header-text-color': '#fff',
@@ -69,7 +69,7 @@
       '--input-focus-box-shadow': '0 0 0 0.2rem rgba(141, 143, 146, 0.25)',
     },
     light: {
-      '--body-bg': '#fff',
+      '--body-bg': 'url("img/light.png")',
       '--base-text-color': '#212529',
       '--header-bg': '#eee',
       '--header-text-color': '#212529',
