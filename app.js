@@ -384,7 +384,8 @@
         "list-group-item",
         "text-center",
         "list-group-item-dark",
-        "empty-msg",        
+        "empty-msg",
+        "mb-2"
       );
       listContainer.appendChild(li);
     } 
