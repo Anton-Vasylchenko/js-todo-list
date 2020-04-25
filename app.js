@@ -42,7 +42,7 @@
       '--input-focus-box-shadow': '0 0 0 0.2rem rgba(0, 123, 255, 0.25)',
     },
     dark: {
-      '--body-bg': 'url("img/dark.png")',
+      '--body-bg': 'url("img/dark.jpg")',
       '--base-text-color': '#212529',
       '--header-bg': '#343a40',
       '--header-text-color': '#fff',
