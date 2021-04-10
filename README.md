@@ -1,8 +1,8 @@
 # js-todo-list
 
-Simple JS todo list!
+Simple todo-list!
 
-Vanila JS :)
+Vanilla JS <3
 
 DEMO - https://anton-vasylchenko.github.io/js-todo-list/
 
