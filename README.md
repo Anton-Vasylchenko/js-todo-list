@@ -1,6 +1,8 @@
 # js-todo-list
 
-DEMO - https://anton-vasylchenko.github.io/js-todo-list/
+Simple JS todo list!
 
-Used technologies: JS, Bootstrap
+Vanila JS :)
+
+DEMO - https://anton-vasylchenko.github.io/js-todo-list/
 
