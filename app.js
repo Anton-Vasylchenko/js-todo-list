@@ -378,7 +378,7 @@
     if(!listContainer.childElementCount) {      
       const li = document.createElement('li');
       const h4 = document.createElement('span');
-      h4.textContent = `${name} list empty`;
+      h4.textContent = `${name} list is empty`;
       li.appendChild(h4);
       li.classList.add(
         "list-group-item",
